@@ -1,0 +1,106 @@
+div {
+	text-align: center;
+}
+h2	{
+	margin: 600px 0 0 0;
+
+}
+.lapiz {
+	width: 100px;
+	height: 100px;
+	background-color: #b4ff9a;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -50px 0px 0px -50px;
+}
+.objeto	{
+	width: 50px;
+    height: 50px;
+    background-color: #92e27a;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -25px 0 0 -25px;
+}
+.objeto1	{
+	width: 150px;
+    height: 150px;
+    background-color: #71c55b;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -75px 0 0 -75px;
+}
+.objeto2	{
+	width: 200px;
+    height: 200px;
+    background-color: #4ea93b;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -100px;
+}
+.objeto3	{
+	width: 250px;
+    height: 250px;
+    background-color: #258d19;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -125px 0 0 -125px;
+}
+.objeto4	{
+	width: 300px;
+    height: 300px;
+    background-color: #007b00;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -150px 0 0 -150px;
+}
+.objeto5	{
+	width: 350px;
+    height: 350px;
+    background-color: #007000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -175px 0 0 -175px;
+}.objeto6	{
+	width: 400px;
+    height: 400px;
+    background-color: #006600;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -200px 0 0 -200px;
+}
+.objeto7	{
+	width: 450px;
+    height: 450px;
+    background-color: #005c00;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -225px 0 0 -225px;
+}
+.objeto8	{
+	width: 500px;
+    height: 500px;
+    background-color: #005200;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -250px 0 0 -250px;
+}
+.objeto9	{
+	width: 550px;
+    height: 550px;
+    background-color: #004500;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -275px 0 0 -275px;
+}
+
